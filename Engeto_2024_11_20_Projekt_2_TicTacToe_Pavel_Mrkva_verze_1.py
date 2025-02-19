@@ -15,9 +15,9 @@ def print_intro():
     print("marks in a:")
     print("* horizontal,")
     print("* vertical or")
-    print("* diagonal row")
+    print("* diagonal row.")
     print("=" * 50)
-    print("Let's start the game")
+    print("Let's start the game!")
 
 
 def print_hraci_plocha(hraci_plocha):
